@@ -4,7 +4,7 @@ I like working with data in pretty much every form. A data and analytics enginee
  
 Each of these started with a question I wanted answered. The tools were whatever fit the job at the time.
  
-| Project | What it does | Links |
+| Project | Description | Links |
 |---|---|---|
 | [Belgian-Houses-Fair-Value](https://github.com/abdessettar/Belgian-Houses-Fair-Value) | An interactive map of every home for sale in Belgium, each flagged as over/under-priced by a custom ML valuation model, with plain language search on top. Refreshed daily. | [Demo](https://belgian-house-fair-value.pages.dev) · [Article](https://abdessettar.xyz/projects/belgian-houses-fair-value/) |
 | [Brique-Belgium](https://github.com/abdessettar/Brique-Belgium) | A deep dive into the Belgian housing market since 2023: prices, rents and yields for every commune, how affordable a home really is, what each feature adds to the price, and how much a good energy rating is worth (among other things). | [Live site](https://belgian-real-estate-market.pages.dev) |
