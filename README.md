@@ -12,5 +12,6 @@ Each of these started with a question I wanted answered. The tools were whatever
 | [entreprise-rag-system-alisleg](https://github.com/abdessettar/entreprise-rag-system-alisleg) | An MVP of a privacy-first assistant for legal teams: ask questions about contracts and get answers with the evidence, all running on a local LLM so documents never leave the system. | [Article](https://abdessettar.xyz/projects/private-ai-system-for-legal-contracts/) |
 | [Spotify-Data-Lake-house](https://github.com/abdessettar/Spotify-Data-Lake-house) | A personal music analytics lakehouse that pulls my Spotify and Last.fm listening history and model it using a medallion architecture every hour. | [Design](https://abdessettar.xyz/projects/designing-building-personal-spotify-data-lakehouse/) · [Insights](https://abdessettar.xyz/projects/spotify-gold-eda/) |
 | [ScrollLess](https://github.com/abdessettar/ScrollLess) | A daily email digest of top Reddit and Hacker News discussions, summarized by an LLM to reduce scrolling time. | — |
+| [Pouls](https://github.com/abdessettar/Pouls) | Your Apple Health export as a local Parquet warehouse, a dashboard site and a Claude-powered coach, all on your own computer. | — |
  
 More write-ups and detailed articles on [my blog](https://abdessettar.xyz).
